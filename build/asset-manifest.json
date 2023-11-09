@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32ce3e74.css",
+    "main.js": "/static/js/main.f574fde3.js",
+    "static/media/12.jpg": "/static/media/12.8ad98220368a33576d3c.jpg",
+    "static/media/7.jpg": "/static/media/7.76888f6a7576869b88ac.jpg",
+    "static/media/d.jpg": "/static/media/d.5e64f73707e9cf11bc8f.jpg",
+    "static/media/11.png": "/static/media/11.ed67923afc66b107e3ce.png",
+    "static/media/dg (1).jpg": "/static/media/dg (1).77e029d329de0cb61f5a.jpg",
+    "static/media/i1.jpg": "/static/media/i1.a2f57e0ad1272f373142.jpg",
+    "static/media/ui.png": "/static/media/ui.dacd40273f1102d55638.png",
+    "static/media/adobe-logo.png": "/static/media/adobe-logo.cf41fd391cbd3165390e.png",
+    "static/media/dg (2).jpg": "/static/media/dg (2).d4b5215c24f59d9b06dc.jpg",
+    "static/media/app.png": "/static/media/app.8ac353796226d436a72e.png",
+    "static/media/Facebook-Logo-2019.png": "/static/media/Facebook-Logo-2019.5df60b11f15eee7d739d.png",
+    "static/media/c1.webp": "/static/media/c1.82731da3eba67bf110ff.webp",
+    "static/media/download.png": "/static/media/download.9b1133138f9f7288f022.png",
+    "static/media/website.png": "/static/media/website.fbbe67941c36fcadf91c.png",
+    "index.html": "/index.html",
+    "main.32ce3e74.css.map": "/static/css/main.32ce3e74.css.map",
+    "main.f574fde3.js.map": "/static/js/main.f574fde3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32ce3e74.css",
+    "static/js/main.f574fde3.js"
+  ]
+}
